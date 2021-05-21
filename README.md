@@ -1,2 +1,2 @@
 # HSE_Deep_learning
-University course
+University course assignments
